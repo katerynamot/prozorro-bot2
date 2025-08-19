@@ -1,4 +1,3 @@
-Жена ❤️, [19.08.2025 12:16]
 import os
 import requests
 from telegram import Bot, Update
