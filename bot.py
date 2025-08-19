@@ -31,5 +31,5 @@ def main():
     # Запуск бота
     app.run_polling()
 
-if name == "__main__":
+if_name_==_"__main__":
     main()
